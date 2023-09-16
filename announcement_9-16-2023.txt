@@ -1,0 +1,6 @@
+Today I am going to talk about the future of my current and future Unity projects. You all might be aware that Unity has announced new fees for using their platform (https://unity.com/runtime-fee).
+I am sad to announce that after December 1st, 2023, I am no longer working on my current and future Unity projects due to the new fees. On November 1st, 2023, I will announce the day when Flappy Tux V1.0.0 will fully release. When I release Flappy Tux, the game will be ported over to Windows to celebrate the launch.
+All past Unity projects such as, My Summer Game 1, Flappy Cow, The Chicken Game, The Deep Dark Space, Bean Counters, and Snake Arcade will get 1 final update on or before the December 1st date. The Deep Dark Space Android port has been scrapped and the release of My Summer Game 2 has been scrapped.
+I had 4 Unity projects that was in development that I was going to announce around March of 2025 but the said projects has been scrapped. Stay tuned for next year because I have something to announce before the summer.
+
+Farewell.
